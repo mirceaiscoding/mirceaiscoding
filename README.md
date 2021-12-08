@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mirceaiscoding
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ?
+- 👋 Hi, I’m Bina Mircea
+- 📫 How to reach me: bina.mircea2001@gmail.com
 
 <!---
 mirceaiscoding/mirceaiscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
